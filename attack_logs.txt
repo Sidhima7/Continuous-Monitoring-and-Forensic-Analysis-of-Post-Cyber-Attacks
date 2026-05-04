@@ -1,0 +1,2 @@
+127.0.0.1 [01:37:41] [HIGH] New port opened
+127.0.0.1 [01:37:44] [MEDIUM] Too many open ports
